@@ -23,5 +23,5 @@ Suggestions:
 🔒 Suggested stronger password: 7t#stQ2e%
 
 👨‍💻 Author
-Your Name
+Krittika Roy
 GitHub:krittikaroy2006
